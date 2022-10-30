@@ -1,0 +1,17 @@
+/* STYLING SCROLLBAR */
+
+::-webkit-scrollbar {
+  width: 0.7vw; /* THIS WILL RESET THE DEFAULT SCORLLBAR STYLING */
+}
+
+/* TO STYLE THE SCROLLBAR TRACK */
+::-webkit-scrollbar-track {
+  background-color: #ffffff18; /* THIS WILL SET THE COLOR OF THE SCROLLBAR TRACK */
+}
+
+/* TO STYLE THE SCROLLBAR THUMB */
+::-webkit-scrollbar-thumb {
+  background-color: #871c9a;
+  /* border: 0.3vw solid #38052e63;
+  /*border-radius: 5vw;*/
+}
